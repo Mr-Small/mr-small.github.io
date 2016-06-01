@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mr-Small</title>
+    <link>http://mr-small.github.io/</link>
+    <description>Recent content on Mr-Small</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Jun 2016 23:27:43 +0900</lastBuildDate>
+    <atom:link href="http://mr-small.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>sample</title>
+      <link>http://mr-small.github.io/post/sample/</link>
+      <pubDate>Wed, 01 Jun 2016 23:27:43 +0900</pubDate>
+      
+      <guid>http://mr-small.github.io/post/sample/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
